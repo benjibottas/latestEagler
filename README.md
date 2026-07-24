@@ -3,7 +3,6 @@
  'https://ezeagler.vercel.app'
 
  For Seed maps use 'https://www.seeds.gg/1-8-java'
- For audio use 'https://bafybeiayojww5jfyzvlmtuk7l5ufkt7nlfto7mhwmzf2vs4bvsjd5ouiuq.ipfs.inbrowser.link/?filename=Music_For_Eaglercraft.zip'
 
 # Structures that do load in this file:
   Villages (Desert and Plains variants)  
